@@ -10,7 +10,7 @@
 
 6.Предобработка данных [[[https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/предобработка%20данных%20проект%20исследование%20надежности%20заемщиков](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/предобработка%20данных%20проект%20исследование%20надежности%20заемщиков)](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Предобработка%20данных%20-%20иссследования%20надёжности%20заёмщиков) ](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Предобработка%20данных%20-%20иссследования%20надёжности%20заёмщиков) Цель проекта: Выполнить обработку данных, исследовать влияние семейного положения и количества детей клиента на факт погашения кредита в срок. 
 
-7.Принятие решений в бизнесе [[[[https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/Принятие%20решений%20в%20бизнесе.py](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/Принятие%20решений%20в%20бизнесе.py)](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Принятие%20решений%20в%20бизнесе)](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Принятие%20решений%20в%20бизнесе)](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Принятие%20решений%20в%20бизнесе)
+7.Принятие решений в бизнесе https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Сборный%20проект%201%20-%20интернет%20магазин%20стримчик
 Цель проекта:Приоритизация заранее подготовленных гипотез, запуск A/B-теста,анализ результатов.
 Основными метриками нашего исследования являются средний чек и конверсия(отношение кол-ва пользователей к заказам)
 
