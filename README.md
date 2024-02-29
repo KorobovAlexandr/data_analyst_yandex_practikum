@@ -8,7 +8,7 @@
 
 5.Статический анализ данных [https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/Статический%20анализ%20данных%20проект%20сервис%20самокатов.py ](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Статический%20анализ%20данных%20-%20сервис%20аренды%20самокатов)Цель проекта:анализ данных и проверка  гипотез, которые могут помочь бизнесу вырасти.
 
-6.Предобработка данных [[[https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/предобработка%20данных%20проект%20исследование%20надежности%20заемщиков](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/предобработка%20данных%20проект%20исследование%20надежности%20заемщиков)](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Предобработка%20данных%20-%20иссследования%20надёжности%20заёмщиков) ](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Предобработка%20данных%20-%20иссследования%20надёжности%20заёмщиков) Цель проекта: Выполнить обработку данных, исследовать влияние семейного положения и количества детей клиента на факт погашения кредита в срок. 
+6.Предобработка данных https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Предобработка%20данных%20-%20иссследования%20надёжности%20заёмщиков Цель проекта: Выполнить обработку данных, исследовать влияние семейного положения и количества детей клиента на факт погашения кредита в срок. 
 
 7.Принятие решений в бизнесе https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Сборный%20проект%201%20-%20интернет%20магазин%20стримчик
 Цель проекта:Приоритизация заранее подготовленных гипотез, запуск A/B-теста,анализ результатов.
