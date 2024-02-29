@@ -6,7 +6,7 @@
 
 4. Сборный проект [https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/Сборный%20проект%201%20интернет%20магазин%20стримчик.py](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Сборный%20проект%201%20-%20интернет%20магазин%20стримчик) Цель проекта: Выявление определяющих успешность игры закономерности, отработка принципов работы с данными, составление кампании на следующий год.
 
-5.Статический анализ данных https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/Статический%20анализ%20данных%20проект%20сервис%20самокатов.py Цель проекта:анализ данных и проверка  гипотез, которые могут помочь бизнесу вырасти.
+5.Статический анализ данных [https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/Статический%20анализ%20данных%20проект%20сервис%20самокатов.py ](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Статический%20анализ%20данных%20-%20сервис%20аренды%20самокатов)Цель проекта:анализ данных и проверка  гипотез, которые могут помочь бизнесу вырасти.
 
 6.Предобработка данных [[https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/предобработка%20данных%20проект%20исследование%20надежности%20заемщиков](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/blob/main/предобработка%20данных%20проект%20исследование%20надежности%20заемщиков)](https://github.com/KorobovAlexandr/data_analyst_yandex_practikum/tree/main/Предобработка%20данных%20-%20иссследования%20надёжности%20заёмщиков) Цель проекта: Выполнить обработку данных, исследовать влияние семейного положения и количества детей клиента на факт погашения кредита в срок. 
 
